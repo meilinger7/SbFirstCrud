@@ -8,7 +8,7 @@ public class MainController {
 
     @GetMapping("")
     public String showHomePage() {
-        System.out.println("compiliert...");
+        System.out.println("cooompiliert...");
 
         return "index";
     }
